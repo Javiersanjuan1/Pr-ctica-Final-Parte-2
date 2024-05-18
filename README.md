@@ -1,4 +1,5 @@
 # Pr-ctica-Final-Parte-2
+https://github.com/Javiersanjuan1/Pr-ctica-Final-Parte-2.git
 Memoria: Aplicación de Gestión de Cultivos de Bacterias
 Nombre del Alumno:F.Javier San Juan Patrón
 Análisis y Descripción de la Aplicación

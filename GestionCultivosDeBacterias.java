@@ -411,3 +411,4 @@ class PoblacionDeBacterias implements Serializable {
                 ", fechaCreacion=" + fechaCreacion +
                 '}';
     }
+}
